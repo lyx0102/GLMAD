@@ -14,4 +14,3 @@ CUDA_VISIBLE_DEVICES=0 python run.py -c configs/InpaintingNet/inpainting_mvtec.p
 CUDA_VISIBLE_DEVICES=0 python run.py -c configs/GLMAD/glmad_mvtec.py -m train
 
 CUDA_VISIBLE_DEVICES=0 python run.py -c configs/GLMAD/glmad_visa.py -m train
-
